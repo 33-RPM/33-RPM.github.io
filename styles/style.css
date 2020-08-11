@@ -20,8 +20,8 @@ body {
   filter: blur(10px);
   -webkit-filter: blur(10px);
 
-  filter: grayscale(100%);
-  -webkit-filter: grayscale(100%);
+  filter: grayscale(1);
+  -webkit-filter: grayscale(1);
 
   transition: all 1000ms;
 }
